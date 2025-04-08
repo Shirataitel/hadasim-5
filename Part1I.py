@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # get 2 arguments
     if len(sys.argv) != 3:
         print("Put arguments!")
-        sys.exit(1)
+        exit(1)
     N = int(sys.argv[1])  # the N errors they want
     log_file = sys.argv[2]  # the file of errors
 
