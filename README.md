@@ -9,5 +9,6 @@
 ### קובץ Part2II.sql הוא פתרון סעיף ב'.  
 ## חלק ד:
 ### נמצא בתוך תקיית my-app
+#### להריץ npm install בתוך client וserver יש להתקין npm install ואז להריץ npm start וnpm run dev
 ## קובץ פתרונות
 ### שם נמצאים הפתרונות במלל.
