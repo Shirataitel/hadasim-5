@@ -1,6 +1,5 @@
 # **הסברים על הקבצים:**  
 ## חלק א:  
-### קבצים log.txt, time_series.csv,time_series.parquet הם קבצי הקלט של השאלות.  
 ### קובץ Part1I.py הוא פתרון סעיף א'. - קלט: שני פרמטרים N, FILENAME. פלט: מדפיס רשימה של הN הכי שכיחים (error:frequency).
 ### קובץ Part1II.py הוא פתרון לסעיף ב'.  - קלט פרמטר FILENAME מסוג csv או parquet. מייצר קובץ פתרון לפי סוג הקובץ קלט שנכנס.
 #### קובצי Part1II.csv וPart1II.parquet הם קבצי הפתרון של שאלה 1 סעיף 2
