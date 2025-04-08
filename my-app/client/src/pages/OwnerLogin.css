@@ -1,0 +1,39 @@
+.owner-login-container {
+    text-align: center;
+    margin-top: 60px;
+  }
+  
+  .owner-login-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .owner-login-form{
+    padding-top: 20px;
+  }
+  .owner-login-form input {
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .owner-login-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  .owner-login-form button:hover {
+    background-color: #45a049;
+    cursor: pointer;
+  }
+  
+  .owner-login-error {
+    color: red;
+    margin-top: 10px;
+  }
+  

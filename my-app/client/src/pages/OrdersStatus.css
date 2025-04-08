@@ -1,0 +1,49 @@
+.orders-status-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.orders-status-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.no-orders-msg {
+  text-align: center;
+  font-size: 18px;
+}
+
+.order-status {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.order-status.completed {
+  color: green; 
+}
+
+.order-status.in-process {
+  color: rgb(188, 188, 2); 
+}
+
+.order-status.holding {
+  color: rgb(199, 3, 3); 
+}
+
+.order-supplier {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.product-list {
+  margin-top: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.product-item {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+

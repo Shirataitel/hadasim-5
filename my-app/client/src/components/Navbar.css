@@ -1,0 +1,27 @@
+.navbar-container {
+  position: fixed; 
+  top: 10px; 
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px; 
+  z-index: 1000;
+  }
+  
+  .navbar-btn {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-weight: bold;
+  }
+  
+  .navbar-btn:hover {
+    background-color: #e0e0e0;
+  }
+  

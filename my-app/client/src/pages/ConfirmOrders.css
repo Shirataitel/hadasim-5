@@ -1,0 +1,56 @@
+.confirm-orders-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .confirm-orders-title {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .no-orders-msg {
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .orders-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .orders-table th,
+  .orders-table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .orders-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .confirm-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+  }
+  
+  .confirm-button:hover {
+    background-color: #218838;
+    cursor: pointer;
+  }
+
+  .order-message.success {
+    color: green;
+  }
+  
+  .order-message.error {
+    color: red;
+  }
+  
